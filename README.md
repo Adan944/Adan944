@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Adan944
-- 👀 I’m interested in programming and networking.
-- 🌱 I’m currently learning at the John von Neumann University in Hungary (Software Information Technology). 
+- 👀 I’m interested in programming and system administration.
+- 🌱 I’m currently working as an MES operator. 
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
